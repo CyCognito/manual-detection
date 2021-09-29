@@ -11,3 +11,11 @@ None
 - 2.7.16
 - 3.7.3
 ---
+## test_php_vulns
+A `python` script which test for both `CVE-2018-20783` (judging by the PHP version).
+Supports python3 only.
+#### Requirements:
+- requests==2.26.0
+#### Tested python versions:
+- 3.7.3
+---
