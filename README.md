@@ -19,3 +19,12 @@ Supports python3 only.
 #### Tested python versions:
 - 3.7.3
 ---
+## plaintext_auth
+A `python` script which test whether a given page (URL) has plain-text authentication
+Supports python3 only.
+#### Requirements:
+- requests==2.26.0
+- beautifulsoup4==4.10.0
+#### Tested python versions:
+- 3.7.3
+---
